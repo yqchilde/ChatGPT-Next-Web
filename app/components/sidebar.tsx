@@ -126,7 +126,7 @@ function exportMessages() {
         不强制打赏，但打赏用于维护ApiKey，此外如有陌生朋友想要体验，可以加我Vx:
         yqchilde_vx，备注ChatGPT，我会告诉你网站的授权密码。
         <br />
-        <img src="/zan.jpg" width="30%" />
+        <img src="/zan.jpg" width="25%" />
       </div>
     ),
   });
