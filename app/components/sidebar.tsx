@@ -110,21 +110,12 @@ function exportMessages() {
         1. 本站建立在开源项目[ChatGPT-Next-Web]基础上，感谢开源作者的付出。
         <br />
         2.
-        本站是为了帮助朋友最简单的体验到ChatGPT的魅力，所以网站密码只对熟人公开。
+        本站是为了帮助朋友最简单的体验到ChatGPT的魅力，所以网站密码只对朋友公开。
         <br />
-        3.
-        如果你没有网站密码想要体验，可以使用自己的ApiKey，本站不保存任何人的Key。
-        <br />
-        4.
-        目前ApiKey站长贡献，如果您需要个人独享ChatGPT官方账号(带ApiKey)，也可来这里
-        <a href="https://ka.closeai.me" target="_blank">
-          https://ka.closeai.me
-        </a>
-        购买
-        <br />
-        5.
-        不强制打赏，但打赏用于维护ApiKey，此外如有陌生朋友想要体验，可以加我Vx:
+        3. 此外如有陌生朋友想要体验，可以加我Vx:
         yqchilde_vx，备注ChatGPT，我会告诉你网站的授权密码。
+        <br />
+        4. 如果对您有帮助，可以请我喝一瓶冰阔落，谢谢您的支持。
         <br />
         <img src="/zan.jpg" width="25%" />
       </div>
@@ -155,8 +146,11 @@ export function SideBar(props: { className?: string }) {
         <div className={styles["sidebar-sub-title"]}>
           <div>本站免费提供ChatGPT服务，公益服务</div>
           <div>
-            如需购买官网账号，请访问
-            <a href="https://ka.closeai.me">https://ka.closeai.me</a>
+            根据新发布的
+            <a href="http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm">
+              《生成式人工智能服务管理暂行办法》
+            </a>
+            ，网站很快将停止服务，敬请谅解。
           </div>
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
